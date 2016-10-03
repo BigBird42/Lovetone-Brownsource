@@ -1,6 +1,6 @@
-# Lovetone-Brownsource-Pedal
+# Lovetone-Brownsource
 
-A description for the pedal can be found here:http://www.lovetone.com/bsource.html.
+A description for the guitar pedal can be found here:http://www.lovetone.com/bsource.html.
 
 This is a kicad pcb layout for the Lovetone Brownsource. The original schematic can be found here: http://bmamps.com/Schematics/Effects_miscellaneous/Lovetone_BrownSource.gif.
 
