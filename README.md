@@ -1,5 +1,4 @@
-# Lovetone-Brownsource
-Lovetone Brownsource pedal.
+# Lovetone-Brownsource-Pedal
 
 A description for the pedal can be found here:http://www.lovetone.com/bsource.html.
 
